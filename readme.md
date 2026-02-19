@@ -20,3 +20,4 @@ Bu proje, **Gemini 2.0 Flash** modeli ile iş birliği içerisinde geliştirilmi
 ## 💻 Çalıştırma
 1. `gcc kosu_mesafe_tensor.c -o odev`
 2. `./odev`
+##https://youtu.be/PsmSut9gv0I
